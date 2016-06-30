@@ -2,7 +2,7 @@ package com.qait.github.data;
 
 public class UserCredentials {
 	String username="pinkimondal-Qait";
-	String password="PinkiQA143";
+	String password="-------";
 	
 	public String getUsername() {
 		return username;
